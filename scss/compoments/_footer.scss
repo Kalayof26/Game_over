@@ -1,0 +1,161 @@
+footer {
+    width: 100%;
+    background-color: #35353521;
+    width: 100%;
+    height: 414px;
+
+
+}
+
+.footer_start {
+    position: relative;
+    font-family: 'Poller One', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+    margin-left: 173px;
+    margin-top: 56px;
+    cursor: pointer;
+
+    & img {
+        position: absolute;
+        width: 27px;
+        height: 33px;
+        margin-left: -30px;
+        margin-top: -9px;
+
+
+
+    }
+
+    & p {
+        margin-top: 20px;
+        margin-left: 5px;
+    }
+}
+
+.numberthree {
+    position: relative;
+    background-color: #D5224E;
+    width: 218px;
+    height: 44px;
+    border-radius: 4px;
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 147px;
+
+
+
+
+
+    & p {
+        color: white;
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        text-align: center;
+        padding-top: 8px;
+        margin-left: 10px;
+
+
+
+    }
+
+    &:hover {
+        background-color: rgb(75, 0, 13);
+
+    }
+}
+
+.fully {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    margin-top: 36px;
+    margin-left: 148px;
+
+
+}
+
+.footer_img {
+    margin-top: 16px;
+    margin-left: 148px;
+
+    & ul {
+        display: flex;
+        justify-content: flex-start;
+        gap: 17px;
+    }
+
+    & ul li:hover {
+        transform: scale(1.1);
+        cursor: pointer;
+    }
+}
+
+.made {
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: #7E8087;
+    margin-left: 148px;
+    margin-top: 67px;
+
+}
+
+.footer_ul {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 29px;
+    color: white;
+    margin-left: 616px;
+    margin-top: -280px;
+    white-space: nowrap;
+
+    & li {
+        cursor: pointer;
+
+    }
+
+    & li:hover {
+        border-bottom: 1px solid #FF4655;
+        width: 79px;
+    }
+
+    .footer_sero {
+        font-family: "Poppins", sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        color: #7E8087;
+        margin-bottom: 16px;
+
+
+    }
+
+    .footer_sero1 {
+        font-family: "Poppins", sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        color: #7E8087;
+        padding-top: 75px;
+
+
+    }
+}
+
+.onefoot {
+    margin-left: 820px;
+    margin-top: -294px;
+}
+
+.twofoot {
+    margin-left: 1027px;
+    margin-top: -294px;
+}
+
+.footer_margin {
+    margin-left: 250px;
+}
